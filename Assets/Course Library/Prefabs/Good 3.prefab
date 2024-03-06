@@ -125,3 +125,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7dc3b222a0e5359439168395a09e1036, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  pointValue: 15
+  explosionParticle: {fileID: 6724267190422446711, guid: be1a1b20043eb4296b1c906341693067, type: 3}
